@@ -1,1 +1,6 @@
-Lecture 3/HelloWorld/HelloWorld/.vscode/settings.json
+*/*/bin/*.class
+*/*/*/bin/*.class
+*/*/*/*/bin/*.class
+*/*/.vscode/settings.json
+*/*/*/.vscode/settings.json
+*/*/*/*/.vscode/settings.json
