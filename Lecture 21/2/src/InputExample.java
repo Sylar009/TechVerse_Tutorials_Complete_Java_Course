@@ -14,5 +14,7 @@ class InputExample {
         System.out.println("Name: " + name);
         System.out.println("Roll No: " + rollNo);
         System.out.println("Marks: " + marks);
+
+        sc.close();
     }
 }
